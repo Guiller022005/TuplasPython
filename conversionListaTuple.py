@@ -1,0 +1,5 @@
+productos = tuple(("Coca Cola","Pepsi Cola", "Pepsi Cola"))
+productos = list(productos)
+productos.append("Colombiana")
+productos = tuple(productos)
+print(productos.index("Pepsi Cola",1,3))
