@@ -1,4 +1,4 @@
-# Diccionarios para productos y descuentos de una tienda
+# Diccionarios para panaderia
 # Diccionario de productos x categoria
 productos = {
     "Pan": ["Baguette", "Pan de molde", "Pan integral", "Pan de centeno"],
